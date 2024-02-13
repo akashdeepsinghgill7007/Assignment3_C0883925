@@ -1,0 +1,19 @@
+{
+  "name": "assignment3_c0883925",
+  "version": "1.0.0",
+  "description": "devops_assignment3_node_express_app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "devops",
+    "assignment3"
+  ],
+  "author": "Akashdeep Singh Gill",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
